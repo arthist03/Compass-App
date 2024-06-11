@@ -29,7 +29,7 @@ To get started with the Compass App, follow these steps:
 
 📚 Tutorial Reference
 
-This app was developed following the tutorial by [Channel Name](https://youtu.be/t8EyCcyf704?si=9ZFh9G01LfOb_7pR). A big thanks to them for their comprehensive guide!
+This app was developed following the tutorial by [Scaler](https://youtu.be/t8EyCcyf704?si=9ZFh9G01LfOb_7pR). A big thanks to them for their comprehensive guide!
 
 🧑‍💻 Contributing
 
