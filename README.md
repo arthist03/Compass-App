@@ -24,8 +24,8 @@ To get started with the Compass App, follow these steps:
 
 📸 Screenshots
 
-![Compass App Screenshot](screenshot1.png)
-![Compass App in Use](screenshot2.png)
+![Compass App Screenshot](ss.png)
+![Compass App in Use](image.png)
 
 📚 Tutorial Reference
 
@@ -34,11 +34,3 @@ This app was developed following the tutorial by [Channel Name](https://youtu.be
 🧑‍💻 Contributing
 
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request or open an issue.
-
-📧 Contact
-
-For any inquiries or support, reach out to me at [your.email@example.com](mailto:your.email@example.com).
-
-📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
